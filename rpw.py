@@ -1,5 +1,5 @@
 #Yuji
-#Facebook:  Yuji ʚìɞ
+#Facebook: Yuji ʚìɞ
 #Github : https://github.com/kenzohiroshi
 from os import path
 import os,base64,zlib,pip,urllib
